@@ -27,7 +27,8 @@ def main(args):
        [2, 32],
        [3, 64],
        [4, 128],
-       [5, 256]],
+       [5, 256],
+	   [6, 512]],
       'max_characters_per_token': 50,
       'n_characters': 261,
       'n_highway': 2},
@@ -36,10 +37,10 @@ def main(args):
     
      'lstm': {
       'cell_clip': 3,
-      'dim': 256,
+      'dim': 512,
       'n_layers': 2,
       'proj_clip': 3,
-      'projection_dim': 256,
+      'projection_dim': 512,
       'use_skip_connections': True},
     
      'all_clip_norm_val': 10.0,

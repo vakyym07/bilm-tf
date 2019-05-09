@@ -10,20 +10,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bilm/data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="763">
-              <caret line="460" lean-forward="true" selection-start-line="460" selection-end-line="460" />
+            <state relative-caret-position="712">
+              <caret line="433" lean-forward="true" selection-start-line="433" selection-end-line="433" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bilm/training.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bilm/training.py">
+        <entry file="file://$PROJECT_DIR$/bin/train_elmo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="465" column="51" lean-forward="true" selection-start-line="465" selection-start-column="51" selection-end-line="465" selection-end-column="51" />
+            <state relative-caret-position="408">
+              <caret line="50" column="7" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -37,6 +46,7 @@
       <find>Loading data from</find>
       <find>projection_dim</find>
       <find>feed_dict=feed_dict</find>
+      <find>n_tokens_vocab</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -82,6 +92,11 @@
               <item name="bilm-tf" type="b2602c69:ProjectViewProjectNode" />
               <item name="bilm-tf" type="462c0819:PsiDirectoryNode" />
               <item name="bilm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bilm-tf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bilm-tf" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -142,17 +157,24 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bilm/training.py">
+    <entry file="file://$PROJECT_DIR$/bilm/data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="465" column="51" lean-forward="true" selection-start-line="465" selection-start-column="51" selection-end-line="465" selection-end-column="51" />
+        <state relative-caret-position="712">
+          <caret line="433" lean-forward="true" selection-start-line="433" selection-end-line="433" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bilm/data.py">
+    <entry file="file://$PROJECT_DIR$/bin/train_elmo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="763">
-          <caret line="460" lean-forward="true" selection-start-line="460" selection-end-line="460" />
+        <state relative-caret-position="408">
+          <caret line="50" column="7" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bilm/training.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
         </state>
       </provider>
     </entry>

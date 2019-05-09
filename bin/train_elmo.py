@@ -12,7 +12,7 @@ def main(args):
     vocab = load_vocab(args.vocab_file, 50)
 
     # define the options
-    batch_size = 512  # batch size for each GPU
+    batch_size = 128  # batch size for each GPU
     n_gpus = 3
 
     # number of tokens in training data (this for 1B Word Benchmark)
@@ -37,10 +37,10 @@ def main(args):
     
      'lstm': {
       'cell_clip': 3,
-      'dim': 512,
+      'dim': 256,
       'n_layers': 2,
       'proj_clip': 3,
-      'projection_dim': 512,
+      'projection_dim': 128,
       'use_skip_connections': True},
     
      'all_clip_norm_val': 10.0,

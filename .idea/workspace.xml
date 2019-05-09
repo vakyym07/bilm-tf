@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38c7ca27-0541-4033-9735-61020bd9ab4f" name="Default Changelist" comment="" />
+    <list default="true" id="38c7ca27-0541-4033-9735-61020bd9ab4f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/bin/train_elmo.py" beforeDir="false" afterPath="$PROJECT_DIR$/bin/train_elmo.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +24,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bilm/training.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="505" column="46" lean-forward="true" selection-start-line="505" selection-start-column="46" selection-end-line="505" selection-end-column="46" />
+            <state relative-caret-position="1729">
+              <caret line="525" column="19" lean-forward="true" selection-start-line="525" selection-start-column="19" selection-end-line="525" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -88,6 +90,9 @@
       <pane id="Scope" />
     </panes>
   </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -125,7 +130,7 @@
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.09335219" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -146,8 +151,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bilm/training.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="505" column="46" lean-forward="true" selection-start-line="505" selection-start-column="46" selection-end-line="505" selection-end-column="46" />
+        <state relative-caret-position="1729">
+          <caret line="525" column="19" lean-forward="true" selection-start-line="525" selection-start-column="19" selection-end-line="525" selection-end-column="19" />
         </state>
       </provider>
     </entry>

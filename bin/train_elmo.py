@@ -40,7 +40,7 @@ def main(args):
       'dim': 256,
       'n_layers': 2,
       'proj_clip': 3,
-      'projection_dim': 128,
+      'projection_dim': 64,
       'use_skip_connections': True},
     
      'all_clip_norm_val': 10.0,

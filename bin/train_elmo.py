@@ -37,10 +37,10 @@ def main(args):
     
      'lstm': {
       'cell_clip': 3,
-      'dim': 256,
+      'dim': 512,
       'n_layers': 2,
       'proj_clip': 3,
-      'projection_dim': 64,
+      'projection_dim': 256,
       'use_skip_connections': True},
     
      'all_clip_norm_val': 10.0,

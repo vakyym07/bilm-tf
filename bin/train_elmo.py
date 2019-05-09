@@ -12,7 +12,7 @@ def main(args):
     vocab = load_vocab(args.vocab_file, 50)
 
     # define the options
-    batch_size = 400  # batch size for each GPU
+    batch_size = 450  # batch size for each GPU
     n_gpus = 3
 
     # number of tokens in training data (this for 1B Word Benchmark)
